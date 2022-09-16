@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, aws-lambda, graphql, http-client, jackson-databind, jdbc-hikari, kafka, kotest, kotlin, kotlin-application, logback, maven, postgres, readme, shade, test-resources, yaml]

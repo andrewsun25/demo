@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: demo
+datasources:
+  default:
+    driverClassName: org.postgresql.Driver
+    db-type: postgresql
